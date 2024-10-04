@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def pascal_triangle(n):
-     if n <= 0
+    if n <= 0:
         return[]
 
     """Initializing the first row of the Pascals triangle"""
